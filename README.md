@@ -1,7 +1,9 @@
 # Telegram-Bot
-This telegram bot aims to cheer up my friend who is currently lost in the relationship with his girlfriend, akon, by making some stupid responses imitating her. 
+This telegram bot aims to cheer up my friend who is currently lost in the relationship with his girlfriend, named akon, by making some stupid responses imitating her. 
 
-To create a Telegram Bot, you first need to find Bot Father on Telegram and type /start.
+The simple bot is able to reply to messages containing specific keywords.
+
+To create such Telegram bot, you first need to find Bot Father on Telegram and type /start.
 
 Name your bot and an API token will be given to you by Bot Father.
 
