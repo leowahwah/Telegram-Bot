@@ -9,7 +9,13 @@ Name your bot and an API token will be given to you by Bot Father.
 
 You may want to keep the token secret as anyone can alter your bot with the token.
 
-Copy the code into your IDE and edit the respond function.
+Open your Python IDE and install python-telegram-bot. In case you are using Pycharm, you may install it via the Project Interpreter.
+
+Copy the code
+
+
+
+
 
 Once the bot is created you may want to have it added into your Telegram groups. However, it may not respond to group messages.
 
