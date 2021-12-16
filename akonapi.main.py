@@ -3,8 +3,8 @@ import reponses as R
 
 
 def handle_message(update, context):
-    text= str(update.message.text).lower()
-    reponse=R.respond(text) 
+    text= str(update.message.text).lower() 
+    reponse=R.respond(text) # The respond function is defined in the responses pyfile
     update.message.reply_text(reponse)
 
 def error(update,context):
