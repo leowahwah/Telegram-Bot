@@ -1,4 +1,4 @@
-from telegram.ext import* # You need to install python-telegram-bot in your IDE before you can import from telegram.ext
+from telegram.ext import*  # You need to install python-telegram-bot in your IDE before you can import from telegram.ext
 import reponses as R
 
 API_KEY="xxxxxxxxxxxxxxxx" # The API key should be a string given to you by Bot Father
