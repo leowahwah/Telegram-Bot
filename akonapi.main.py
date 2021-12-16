@@ -1,6 +1,8 @@
 from telegram.ext import* # You need to install python-telegram-bot in your IDE
 import reponses as R
 
+API_KEY="xxxxxxxxxxxxxxxx" # The API key should be a string given to you by Bot Father
+
 
 def handle_message(update, context):
     text= str(update.message.text).lower() 
@@ -11,6 +13,7 @@ def error(update,context):
     print(f"Update{update}caused error{context.error}")
 
 def main():
+    
     updater = Updater(API_KEY, use_context=True)
     dp = updater.dispatcher
     dp.add_handler(MessageHandler(Filters.text, handle_message))
