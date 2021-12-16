@@ -9,7 +9,7 @@ The simple bot is able to reply to messages containing specific keywords. If you
 
 3. You may want to keep the Key secret as anyone can alter your bot with the token.
 
-4. Open your Python IDE and install python-telegram-bot. In case you are using Pycharm, you may install it via the Project Interpreter.
+4. Open your Python IDE and install python-telegram-bot. In case you are using PyCharm, you may install it via the Project Interpreter.
 
 6. Copy the code from main.py and set the variable API_KEY = "the string given by Bot Father". Quotation marks required.
 
