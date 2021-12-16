@@ -1,7 +1,7 @@
 # Telegram-Bot
 This telegram bot aims to cheer up my friend who is currently lost in the relationship with his girlfriend. The bot will imitate her and make some funny responses. 
 
-In general, the simple bot is able to reply to messages containing specific keywords you like. What's even more exciting is that it requires little to none coding skills! So, if you wish to make one using Python, it's super easy and just follow the steps below:
+In general, the simple bot is able to reply to messages containing specific keywords you like. What's even more exciting is that it requires little to none coding skills! If you wish to make one using Python, it's super easy and just follow the steps below:
 
 1. To create such Telegram bot, you first need to find Bot Father on Telegram and type /start.
 
