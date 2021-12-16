@@ -15,5 +15,5 @@ To solve this, go to Bot Father again.
 
 type /setprivacy then Disable.
 
-And the problem shall be handled.
+And the problem shall be addressed.
 
