@@ -3,7 +3,7 @@ def hello(input):
 
     if ("keyword" in user_message):
 
-       return ' Any response you like'
+       return 'Any response you like'
 
 
     
