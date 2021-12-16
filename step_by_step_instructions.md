@@ -1,5 +1,5 @@
 # Telegram-Bot
-This telegram bot aims to cheer up my friend who is currently lost in the relationship with his girlfriend. The bot imitates her and makes some funny responses. 
+This telegram bot aims to cheer up my friend who is currently lost in the relationship with his girlfriend. The bot will imitate her and make some funny responses. 
 
 In general, the simple bot is able to reply to messages containing specific keywords you like. If you wish to make one using Python, it's super easy and please follow the steps below:
 
