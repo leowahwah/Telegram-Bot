@@ -1,5 +1,5 @@
 # Telegram-Bot
-This telegram bot aims to cheer up my friend who is currently lost in the relationship with his girlfriend, akon, by making some stupid responses. 
+This telegram bot aims to cheer up my friend who is currently lost in the relationship with his girlfriend, akon, by making some stupid responses imitating her. 
 
 To create a Telegram Bot, you first need to find Bot Father on Telegram and type /start.
 
