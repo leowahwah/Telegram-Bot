@@ -9,7 +9,7 @@ def handle_message(update, context):
     reponse=R.respond(text) # The respond function is defined in the responses pyfile
     update.message.reply_text(reponse)
 
-def error(update,context):
+def error(update,context): # Just in case any error occurs
     print(f"Update{update}caused error{context.error}")
 
 def main():
