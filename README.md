@@ -13,16 +13,12 @@ In general, the simple bot is able to reply to messages containing specific keyw
 
 5. Go to File> New..>pythonfile to create a new pyfile called responses and copy the code from sample_responses.py. So now your respones file should only contain the respond function. The reason for creating a new pythonfile is simply we don't want the main file look too messy as the respond function gets longer.
 
-6. You may edit the if statements and the return strings of the respond function on your own accord, such that your bot will reply to messages containing key words you desired.
+6. You may edit the if statements and the return strings of the respond function on your own accord, such that your bot will reply to messages containing key words you desired. Run the program and your bot should be functioning! You may want to have it added into your Telegram groups. However, it may not respond to group messages.
 
-7. Run the program and your bot should be functioning.
-
-8. You may want to have it added into your Telegram groups. However, it may not respond to group messages.
-
-9. To solve this, go to Bot Father again.
-
-10. Type /setprivacy then Disable.
+7. To solve this, go to Bot Father again. Type /setprivacy then Disable.
 
 
-And the problem shall be addressed and have fun!
+
+
+And the problem shall be addressed and you are all set. Have fun!
 
