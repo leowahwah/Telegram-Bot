@@ -9,7 +9,7 @@ The simple bot is able to reply to messages containing specific keywords. If you
 
 3. Open your Python IDE and install python-telegram-bot. In case you are using PyCharm, you may install it via the Project Interpreter.
 
-4. Copy the code from main.py and set the variable API_KEY = "the string given by Bot Father". Quotation marks required. You don't have make any changes.
+4. Copy the code from main.py and set the variable API_KEY = "the string given by Bot Father". Quotation marks required. You don't have make any further changes.
 
 5. Go to File> New..>pythonfile to create a new pyfile called responses and copy the code from reponses.py. So now your respones file should only contain the respond function.
 
