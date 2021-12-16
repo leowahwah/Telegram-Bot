@@ -1,7 +1,7 @@
 # Telegram-Bot
 This telegram bot aims to cheer up my friend who is currently lost in the relationship with his girlfriend, named akon, by making some stupid responses imitating her. 
 
-The simple bot is able to reply to messages containing specific keywords. If you wish to make one, please follow the steps below.
+The simple bot is able to reply to messages containing specific keywords. If you wish to make one, please follow the steps below:
 
 1. To create such Telegram bot, you first need to find Bot Father on Telegram and type /start.
 
