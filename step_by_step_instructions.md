@@ -13,7 +13,7 @@ In general, the simple bot is able to reply to messages containing specific keyw
 
 5. Go to File> New..>pythonfile to create a new pyfile called responses and copy the code from sample_responses.py. So now your respones file should only contain the respond function. The reason for creating a new pythonfile is simply we don't want the main file look too messy as the respond function gets longer.
 
-6. You may edit the if statements and the return strings of the respond function on your own accord, such that your bot may reply to messages containing key words you desired.
+6. You may edit the if statements and the return strings of the respond function on your own accord, such that your bot will reply to messages containing key words you desired.
 
 7. Run the program and your bot should be functioning.
 
