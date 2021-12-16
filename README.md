@@ -5,7 +5,7 @@ The simple bot is able to reply to messages containing specific keywords. If you
 
 1. To create such Telegram bot, you first need to find Bot Father on Telegram and type /start.
 
-2. Name your bot and an API token, or we say API key, will be given to you by Bot Father. The Key is simply a string with many letters and numbers. You may want to keep the Key secret as anyone can alter your bot with the token.
+2. Name your bot and an API token, or we say an API key, will be given to you by Bot Father. The Key is simply a string with many letters and numbers. You may want to keep the Key secret as anyone can alter your bot with the token.
 
 3. Open your Python IDE and install python-telegram-bot. In case you are using PyCharm, you may install it via the Project Interpreter.
 
