@@ -11,7 +11,7 @@ The simple bot is able to reply to messages containing specific keywords. If you
 
 4. Copy the code from main.py and set the variable API_KEY = "the string given by Bot Father". Quotation marks required.
 
-5. Go to File> New..>pythonfile to create a new pyfile called responses and copy the code from reponses.py. So now your respones file should only contain the respond function
+5. Go to File> New..>pythonfile to create a new pyfile called responses and copy the code from reponses.py. So now your respones file should only contain the respond function.
 
 6. You may edit the respond function on your own accord such that your bot may reply to messages containing key words you desired.
 
