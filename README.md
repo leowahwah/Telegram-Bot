@@ -9,13 +9,11 @@ In general, the simple bot is able to reply to messages containing specific keyw
 
 3. Open your Python IDE and install the "python-telegram-bot" package. In case you are using PyCharm, you may install it via the Project Interpreter.
 
-4. Copy the code from sample_api.main.py and set the variable API_KEY = "the string given by Bot Father". Quotation marks required. You don't have to make any further changes.
+4. Copy the code from sample_api.main.py and set the variable API_KEY = "the string given by Bot Father". Quotation marks required. You don't have to make any further changes. We now focus on the making our bot to respond to specific keywords .
 
-5. Go to File> New..>pythonfile to create a new pyfile called responses and copy the code from sample_responses.py. So now your respones file should only contain the respond function. The reason for creating a new pythonfile is simply we don't want the main file look too messy as the respond function gets longer.
+5. Now, the only thing you have to do is to edit the if statements and the return strings of the respond function on your own accord, such that your bot will reply to messages containing key words you desired. Run the program and your bot should be functioning! You may want to have it added into your Telegram groups. However, it may not respond to group messages.
 
-6. You may edit the if statements and the return strings of the respond function on your own accord, such that your bot will reply to messages containing key words you desired. Run the program and your bot should be functioning! You may want to have it added into your Telegram groups. However, it may not respond to group messages.
-
-7. To solve this, go to Bot Father again. Type /setprivacy then Disable.
+6. To solve this, go to Bot Father again. Type /setprivacy then Disable.
 
 
 
