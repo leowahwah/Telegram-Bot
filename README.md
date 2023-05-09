@@ -12,7 +12,7 @@ In general, the simple bot is able to reply to messages containing specific keyw
 
 5. Now, the only thing you have to do is to edit the if statements and the return strings of the respond function on your own accord, such that your bot will reply to messages containing key words you desired. Run the program and your bot should be functioning! You may want to have it added into your Telegram groups. However, it may not respond to group messages.
 
-6. To solve this, go to Bot Father again. Type /setprivacy then Disable.
+6. To solve this, go to Bot Father again. Type /setprivacy then Disable. Then your bot can respond to groupd messages containing specific keywords!
 
 
 
